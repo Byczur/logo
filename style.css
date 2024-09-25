@@ -1,9 +1,9 @@
 div#logo {
   background-color: lightgreen;
-  color: lightgrey;
-  font: 28px calibri;
+  color: grey;
+  font: 128px calibri;
   text-align: center;
   text-shadow: black 4px 4px 8px;
-  border: double silver;
+  border: dotted yellow;
   letter-spacing: 25px;
 }
